@@ -1,0 +1,2 @@
+# toxic
+Zararlı Yorum Tespiti 
